@@ -1,7 +1,7 @@
 # Webserv
 
 ### Description
-This project is here to make us write our HTTP server. Thanks to mlarboul and trouchon <3
+This project is here to make us write our HTTP server. Thanks to mlarboul and trouchon ❤
 
 ***
 ### Conf. File
